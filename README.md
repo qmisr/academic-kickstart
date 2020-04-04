@@ -1,6 +1,6 @@
 # Dr AlMarzouq's Personal Page based on:
 
-## Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
 
 ## License
 

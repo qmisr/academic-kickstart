@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: MIS 336
+linktitle: MIS 336 (Videos)
 summary: Data Communications and Networks (Videos)
 weight: 1
 

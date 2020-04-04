@@ -2,6 +2,10 @@
 
 Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
 
+## Build Status:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63b50258-3b41-4ccb-bb19-098366a39af8/deploy-status)](https://app.netlify.com/sites/dralmarzouq/deploys)
+
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
